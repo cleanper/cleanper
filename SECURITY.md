@@ -1,23 +1,5 @@
-# Security Policy
+Windows 7 and above versions support this bat or are currently being maintained!
 
-## Supported Versions
+windows7及以上的版本支持此bat又或者正在维护!
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-
-soyouber@outlook.com 在此报告问题漏洞
+soyouber@outlook.com 在此报告问题漏洞!
